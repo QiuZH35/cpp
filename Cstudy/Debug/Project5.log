@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  C个别项目实战.c
+  C学习笔记.c
+  lexer.c
+  hello.c
+  add.c
+  正在生成代码...
+  Project5.vcxproj -> D:\vs2017Data\Cstudy\Debug\Cstudy.exe
